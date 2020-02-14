@@ -209,8 +209,8 @@ go_repository(
 go_repository(
     name = "com_github_golang_protobuf",
     importpath = "github.com/golang/protobuf",
-    sum = "h1:gyjaxf+svBWX08ZjK86iN9geUJF0H6gp2IRKX6Nf6/I=",
-    version = "v1.3.3",
+    sum = "h1:axiiuL94A9bpjZyKcirx5U62av32UORcixjrwLdzvMo=",
+    version = "v1.4.0-rc.1",
 )
 
 go_repository(
