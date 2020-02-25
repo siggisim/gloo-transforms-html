@@ -349,8 +349,8 @@ go_repository(
 go_repository(
     name = "org_golang_google_api",
     importpath = "google.golang.org/api",
-    sum = "h1:0q95w+VuFtv4PAx4PZVQdBMmYbaCHbnfKaEiDIcVyag=",
-    version = "v0.17.0",
+    sum = "h1:TgDr+1inK2XVUKZx3BYAqQg/GwucGdBkzZjWaTg/I+A=",
+    version = "v0.18.0",
 )
 
 go_repository(
