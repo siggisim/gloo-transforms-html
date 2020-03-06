@@ -307,8 +307,8 @@ go_repository(
 go_repository(
     name = "com_google_cloud_go",
     importpath = "cloud.google.com/go",
-    sum = "h1:MZQCQQaRwOrAcuKjiHWHrgKykt4fZyuwF2dtiG3fGW8=",
-    version = "v0.53.0",
+    sum = "h1:3ithwDMr7/3vpAMXiH+ZQnYbuIsh+OPhUPMFC9enmn0=",
+    version = "v0.54.0",
 )
 
 go_repository(
@@ -370,8 +370,8 @@ go_repository(
 go_repository(
     name = "org_golang_google_grpc",
     importpath = "google.golang.org/grpc",
-    sum = "h1:PVZrwq0Uyu/ItyjGm2UJMD65GYT5F32WIornvBYEPrE=",
-    version = "v1.28.0-pre",
+    sum = "h1:DiLOx+2xxiUPTtK+g6mB3Ayfie7FUINxGVeZpgA/n6U=",
+    version = "v1.29.0-dev",
 )
 
 go_repository(
