@@ -202,8 +202,8 @@ go_repository(
 go_repository(
     name = "com_github_golang_mock",
     importpath = "github.com/golang/mock",
-    sum = "h1:fXIkPzOBCwDUPvYmOPzETABgbqpYlYNigQ2o64eMr5c=",
-    version = "v1.4.2",
+    sum = "h1:GV+pQPG/EUUbkh47niozDcADz6go/dUwhVzdUQHIVRw=",
+    version = "v1.4.3",
 )
 
 go_repository(
