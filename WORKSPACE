@@ -370,8 +370,8 @@ go_repository(
 go_repository(
     name = "org_golang_google_grpc",
     importpath = "google.golang.org/grpc",
-    sum = "h1:UPWdABFs9zu2kdq7GrCUcfnVgCT65hSpvHmy0RiKn0M=",
-    version = "v1.30.0-dev.1",
+    sum = "h1:KHN1EW1A10U/gRNCHqmhKwr+GBvbTIK4s8UuDCVJ5nQ=",
+    version = "v1.31.0-dev",
 )
 
 go_repository(
