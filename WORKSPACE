@@ -223,8 +223,8 @@ go_repository(
 go_repository(
     name = "com_github_google_go_cmp",
     importpath = "github.com/google/go-cmp",
-    sum = "h1:/exdXoGamhu5ONeUJH0deniYLWYvQwW66yvlfiiKTu0=",
-    version = "v0.4.1",
+    sum = "h1:/QaMHBdZ26BB3SSst0Iwl10Epc+xhTquomWX0oZEB6w=",
+    version = "v0.5.0",
 )
 
 go_repository(
@@ -349,8 +349,8 @@ go_repository(
 go_repository(
     name = "org_golang_google_api",
     importpath = "google.golang.org/api",
-    sum = "h1:L02vxokXh9byvvyTw3PLA4MmNri7cY29nliyK4MnIxY=",
-    version = "v0.27.0",
+    sum = "h1:jMF5hhVfMkTZwHW1SDpKq5CkgWLXOb31Foaca9Zr3oM=",
+    version = "v0.28.0",
 )
 
 go_repository(
