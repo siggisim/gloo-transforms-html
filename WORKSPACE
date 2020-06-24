@@ -307,8 +307,8 @@ go_repository(
 go_repository(
     name = "com_google_cloud_go",
     importpath = "cloud.google.com/go",
-    sum = "h1:vtAfVc723K3xKq1BQydk/FyCldnaNFhGhpJxaJzgRMQ=",
-    version = "v0.58.0",
+    sum = "h1:BM3svUDU3itpc2m5cu5wCyThIYNDlFlts9GASw31GW8=",
+    version = "v0.59.0",
 )
 
 go_repository(
